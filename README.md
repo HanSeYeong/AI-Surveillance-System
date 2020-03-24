@@ -1,6 +1,8 @@
 # AI-Surveillance-System
 Ongoing project
 
+![process flow](https://user-images.githubusercontent.com/23312746/77425598-543f6c80-6e16-11ea-9981-b83a71cb0703.jpg)
+
 Face Recognition : used face_recognition/ageitgey
 (https://github.com/ageitgey/face_recognition)
 
