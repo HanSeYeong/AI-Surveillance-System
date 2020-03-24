@@ -1,0 +1,5 @@
+classes=13
+train = deepfashion2-train.txt
+valid = deepfashion2-test.txt
+names = module/darknet_model/model_data/model_fashion/deepfashion2.names
+backup = backup/ 
